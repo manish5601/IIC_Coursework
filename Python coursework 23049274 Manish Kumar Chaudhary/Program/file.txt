@@ -1,0 +1,15 @@
+101, Hetauda, Central, 13, 45000, Available
+102, Dhangadhi, West, 17, 70000, Available
+103, Nepalgunj, West, 18, 75000, Not Available
+104, Pokhara, West, 19, 85000, Available
+105, Janakpur, East, 14, 46000, Available
+106, Itahari, East, 20, 53000, Not Available
+107, Bhairahawa, South, 11, 48000, Available
+108, Bharatpur, Central, 13, 65000, Not Available
+109, Tikapur, West, 15, 62000, Available
+110, Inaruwa, East, 14, 35000, Available
+111, Birgunj, South, 11, 78000, Not Available
+112, Tansen       , West    , 16, 60000, Not Available
+113, Dharan       , East, 15, 48000, Available
+114, Siraha       , East, 12, 50000, Available
+115, Butwal       , West, 18, 78000, Available
